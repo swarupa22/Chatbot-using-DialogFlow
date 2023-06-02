@@ -1,0 +1,32 @@
+[
+  {
+    "value": "pink",
+    "synonyms": [
+      "pink"
+    ]
+  },
+  {
+    "value": "black",
+    "synonyms": [
+      "black"
+    ]
+  },
+  {
+    "value": "red",
+    "synonyms": [
+      "red"
+    ]
+  },
+  {
+    "value": "white",
+    "synonyms": [
+      "white"
+    ]
+  },
+  {
+    "value": "green",
+    "synonyms": [
+      "green"
+    ]
+  }
+]

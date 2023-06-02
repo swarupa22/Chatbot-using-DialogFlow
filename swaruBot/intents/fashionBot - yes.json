@@ -1,0 +1,39 @@
+{
+  "id": "98db1db1-bd34-4284-85f8-61daa939528d",
+  "parentId": "3c4babdf-b1c9-41df-b108-627d7fdbed50",
+  "rootParentId": "3c4babdf-b1c9-41df-b108-627d7fdbed50",
+  "name": "fashionBot - yes",
+  "auto": true,
+  "contexts": [
+    "fashionBot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fashionBot.fashionBot-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you ! An outfit with dupatta."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

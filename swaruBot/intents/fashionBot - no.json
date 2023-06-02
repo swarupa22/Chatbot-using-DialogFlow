@@ -1,0 +1,39 @@
+{
+  "id": "4bb2b86a-0051-4f63-a841-50e1da95cfb7",
+  "parentId": "3c4babdf-b1c9-41df-b108-627d7fdbed50",
+  "rootParentId": "3c4babdf-b1c9-41df-b108-627d7fdbed50",
+  "name": "fashionBot - no",
+  "auto": true,
+  "contexts": [
+    "fashionBot-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fashionBot.fashionBot-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok, thankyou. Outfit is ordered for you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

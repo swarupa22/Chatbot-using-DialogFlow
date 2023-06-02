@@ -1,0 +1,213 @@
+[
+  {
+    "id": "1537eccd-af9a-4d15-b262-2a2e1ae5188c",
+    "data": [
+      {
+        "text": "In which ",
+        "userDefined": false
+      },
+      {
+        "text": "colour",
+        "meta": "@Colour",
+        "alias": "Colour",
+        "userDefined": true
+      },
+      {
+        "text": " do you want ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d573d985-651c-41df-8350-0ebfeb324239",
+    "data": [
+      {
+        "text": "At what ",
+        "userDefined": false
+      },
+      {
+        "text": "hours",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " order can be placed ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be93087b-a484-4777-a8b3-1470109c809e",
+    "data": [
+      {
+        "text": "Could you please order an outfit ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb76372e-f362-412f-ad9d-3456db02ec0b",
+    "data": [
+      {
+        "text": "Could you please place an outfit of western ",
+        "userDefined": false
+      },
+      {
+        "text": "Style",
+        "meta": "@Style",
+        "alias": "Style",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14a9567f-77b6-41b8-b90e-f3d7caa97eb9",
+    "data": [
+      {
+        "text": "Could you please order me women ",
+        "userDefined": false
+      },
+      {
+        "text": "Category",
+        "meta": "@Category",
+        "alias": "Category",
+        "userDefined": true
+      },
+      {
+        "text": " outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e10cc47-faf5-4a3d-be3e-a2a8d4a23e46",
+    "data": [
+      {
+        "text": "Please order me an outfit.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33c86937-e88f-42c2-99e2-680323e5f432",
+    "data": [
+      {
+        "text": "Could you place an order in the name ",
+        "userDefined": false
+      },
+      {
+        "text": "swarupa",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c2013fa-c826-4afa-9d1a-55268d4bd383",
+    "data": [
+      {
+        "text": "Could you place an order in the mobile number ",
+        "userDefined": false
+      },
+      {
+        "text": "7689014567",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "309810cd-2808-4440-9749-cbb3d4271698",
+    "data": [
+      {
+        "text": "Could you place an order to the mailid ",
+        "userDefined": false
+      },
+      {
+        "text": "swaruswaru16@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "492ae82e-05f8-495f-99d3-4dc32c775fa1",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39821273-c5d5-4bed-9289-ffc35a420c9e",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
